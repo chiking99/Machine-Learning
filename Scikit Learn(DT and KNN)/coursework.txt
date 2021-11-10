@@ -1,0 +1,99 @@
+[age, n﻿umerical]
+[job, categorical]
+[marital, categorical]
+[education, categorical]
+[default, categorical]
+[balance, numerical]
+[housing, categorical]
+[loan, categorical]
+[contact, categorical]
+[day, categorical]
+[month, categorical]
+[duration, numerical]
+[campaign, numerical]
+[pdays, numerical]
+[previous, numerical]
+[poutcome, categorical]﻿
+
+Categorical
+
+job
+
+Number of Feature: 12
+
+Feature Values: [admin., technician, services, management, student, retired, blue-collar, unemployed, housemaid, entrepreneur, self-employed, unknown]
+
+marital
+
+Number of Feature: 3
+
+Feature Values: [single, married, divorced]
+
+education
+
+Number of Feature: 4
+
+Feature Values: [tertiary, secondary, primary, unknown]
+
+default
+
+Number of Feature: 2
+
+Feature Values: [no, yes]
+
+housing
+
+Number of Feature: 2
+
+Feature Values:  [no, yes]
+
+loan
+
+Number of Feature: 2
+
+Feature Values:  [no, yes]
+
+contact
+
+Number of Feature: 3
+
+Feature Values: [cellular, unknown, telephone]
+
+day
+
+Number of Feature: 31
+
+Feature Values:  [23, 3, 15, 9, 24, 27, 31, 8, 21, 12, 2, 13, 20, 16, 6, 4, 25, 14, 17, 10, 18, 30, 7, 28, 11, 26, 19, 22, 1, 5, 29]
+month
+
+Number of Feature: 12
+Feature Values: [jul, feb, may, sep, jun, apr, jan, aug, nov, mar, oct, dec]
+poutcome
+
+Number of Feature: 4
+Feature Values: [unknown, other, success, failure]
+Numerical
+
+age
+
+Range: [1﻿8, 95], ﻿Average﻿: ﻿41.164
+
+balance
+
+Range: [-3058, 81204], Average: 1488.625 
+
+duration
+
+Range: [4, 3881], Average: 364.347  
+
+campaign
+
+Range: [1,51], Average:  2.526
+
+pdays
+
+Range: [-1, 854], Average: 54.399
+
+previous
+
+Range: [0,58], Average:  0.844
